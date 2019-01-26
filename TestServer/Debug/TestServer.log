@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\rezzy\desktop\advance game submit\server final ver\testserver\main.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\rezzy\desktop\advance game submit\server final ver\testserver\main.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  TestServer.vcxproj -> C:\Users\Rezzy\Desktop\Advance Game Submit\Server final ver\Debug\TestServer.exe

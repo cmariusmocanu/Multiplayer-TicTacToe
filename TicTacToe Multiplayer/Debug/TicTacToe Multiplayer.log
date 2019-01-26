@@ -1,0 +1,20 @@
+﻿  AssetManager.cpp
+  GameLoop.cpp
+  GameOverState.cpp
+  GameState.cpp
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\gamestate.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\gamestate.cpp(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\gamestate.cpp(70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\gamestate.cpp(73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\gamestate.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\gamestate.cpp(232): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  InputManager.cpp
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\inputmanager.cpp(9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\inputmanager.cpp(9): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  main.cpp
+  MainMenu.cpp
+c:\users\rezzy\desktop\advance game submit\tictactoe multiplayer\tictactoe multiplayer\mainmenu.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SendingSocket.cpp
+  StateMachine.cpp
+  Generating Code...
+  TicTacToe Multiplayer.vcxproj -> C:\Users\Rezzy\Desktop\Advance Game Submit\TicTacToe Multiplayer\Debug\TicTacToe Multiplayer.exe
